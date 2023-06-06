@@ -1,0 +1,6 @@
+framework module Pods_AppChuckViewCodeTests {
+  umbrella header "Pods-AppChuckViewCodeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
